@@ -4,6 +4,9 @@ let newGameBtn=document.querySelector("#newBtn");
 let msgContainer=document.querySelector(".msg-container");
 let msg=document.querySelector("#msg");
 
+//  tic toe game 
+
+
 let turnO=true;
 let count=0;
 const winPatterns=[
